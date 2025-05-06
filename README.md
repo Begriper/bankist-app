@@ -4,10 +4,15 @@ A sleek online banking interface built with **HTML**, **CSS**, and **JavaScript*
 
 ---
 
+Demo Login Credentials
+To try out the app:
+
+👤 Username: js  
+🔐 PIN: 1111
+
 ## ✨ Live Preview
 
-[Launch Bankist App](https://begriper.github.io/bankist/)
-GitHub Repo: [https://github.com/Begriper/bankist-app](https://github.com/Begriper/bankist-app)
+[Launch Bankist App](https://begriper.github.io/bankist-app/)
 
 ---
 
